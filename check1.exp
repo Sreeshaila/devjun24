@@ -9,4 +9,7 @@ if [ -n "$name" ]; then
     echo "Hello, $name! Welcome."
 else
     echo "You didn't enter your name."
+    
+    echo "Welcome to devops class, happy learn"
+
 fi
