@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# This script prompts the user for their name and greets them
+
+echo "Please enter your name:"
+read name
+
+if [ -n "$name" ]; then
+    echo "Hello, $name! Welcome."
+else
+    echo "You didn't enter your name."
+    
+    echo "Shree"
+    echo "Shree working GE health care"
+
+
+    echo "A+B = C"
+    echo "Welcome to devops class, happy learn"
+
+fi
