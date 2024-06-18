@@ -10,6 +10,10 @@ if [ -n "$name" ]; then
 else
     echo "You didn't enter your name."
     
+    echo "Shree"
+
+
+    echo "A+B = C"
     echo "Welcome to devops class, happy learn"
 
 fi
