@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "This is exp1.s"
+echo "This is exps"
 hms
 
