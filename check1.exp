@@ -16,5 +16,6 @@ else
 
     echo "A+B = C"
     echo "Welcome to devops class, happy learn"
+    echo "Welcome to devops class, happy learn" 02
 
 fi
